@@ -1,8 +1,6 @@
 # jsbooster README
 
-This is the README for your extension "jsbooster". After writing up a brief description, we recommend including the following sections.
-
-# how to use
+## how to use
 
 Select the range of codes you want to speed up, then click the lower right button to launch the program. 
 The program will display pairs of codes that show differences in execution speed based on string similarity.
