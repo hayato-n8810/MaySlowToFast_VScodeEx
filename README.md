@@ -4,7 +4,8 @@ This is the README for your extension "jsbooster". After writing up a brief desc
 
 # how to use
 
-Select a range of codes that you want to speed up and click the button in the lower right corner to launch the program, which displays a list of candidate codes that are considered to be fast.
+Select a range of codes that you want to speed up and click the button in the lower right corner to launch the program, 
+which displays a list of candidate codes that are considered to be fast.
 
 ## Features
 
